@@ -27,6 +27,7 @@ pip install -r requirements.txt
 ```
 
 2.  **Configure AWS Cognito**
+
 Set up a User Pool in your AWS Console.
 Create .env file in **components** folder and add your AWS Cognito credentials.
 ```bash
