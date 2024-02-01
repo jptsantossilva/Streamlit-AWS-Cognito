@@ -15,6 +15,7 @@ This project demonstrates the integration of Streamlit, a Python framework for b
 ## Requirements
 
 - Python 3.x
+- Streamlit 1.30.0
 - AWS Account with Cognito User Pool set up
 
 ## Getting Started
